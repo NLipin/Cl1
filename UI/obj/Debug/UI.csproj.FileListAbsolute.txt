@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\Cl\UI\bin\Debug\UI.exe.config
+C:\Users\Admin\Documents\Cl\UI\bin\Debug\UI.exe
+C:\Users\Admin\Documents\Cl\UI\bin\Debug\UI.pdb
+C:\Users\Admin\Documents\Cl\UI\bin\Debug\MyMath.dll
+C:\Users\Admin\Documents\Cl\UI\bin\Debug\MyMath.pdb
+C:\Users\Admin\Documents\Cl\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Cl\UI\obj\Debug\UI.Form1.resources
+C:\Users\Admin\Documents\Cl\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Admin\Documents\Cl\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Cl\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Cl\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Admin\Documents\Cl\UI\obj\Debug\UI.exe
+C:\Users\Admin\Documents\Cl\UI\obj\Debug\UI.pdb
